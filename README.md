@@ -1,7 +1,7 @@
 # Wordle-Experiment
 Jupyter Notebooks:
 -	Wordle_Analysis.ipynb – reads in data, preps data for analysis
--	Wordle_experiment_the_story.ipynb – analysis and summarize findings.
+-	Wordle_experiment_the_story.ipynb – analyze and summarize findings.
 -	World_experiment_the_story.html
 
 ## Data files:
