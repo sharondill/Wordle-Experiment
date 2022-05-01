@@ -1,0 +1,81 @@
+Date,Round,Attempt,Score,Player,Word,Guess,difficulty,Type,wordsRemain
+2022-03-10,1,1,3,Player A,lapse,steam,9,2 Medium,48
+2022-03-11,1,2,4,Player A,watch,steam,13,3 Hard,110
+2022-03-12,1,3,4,Player A,today,steam,8,2 Medium,18
+2022-03-13,1,4,5,Player A,focus,steam,12,3 Hard,119
+2022-03-14,1,5,2,Player A,smelt,steam,9,2 Medium,1
+2022-03-15,1,6,4,Player A,tease,steam,7,1 Easy,25
+2022-03-16,1,7,4,Player A,cater,steam,8,2 Medium,65
+2022-03-17,1,8,3,Player A,movie,steam,12,3 Hard,45
+2022-03-18,1,9,3,Player A,saute,steam,6,1 Easy,13
+2022-03-19,1,10,6,Player A,allow,steam,12,3 Hard,227
+2022-03-20,2,1,4,Player A,renew,grand,11,3 Hard,64
+2022-03-21,2,2,5,Player A,their,sport,7,1 Easy,106
+2022-03-22,2,3,4,Player A,slosh,sharp,10,2 Medium,31
+2022-03-23,2,4,5,Player A,purge,trade,11,3 Hard,63
+2022-03-24,2,5,4,Player A,chest,train,10,2 Medium,125
+2022-03-25,2,6,4,Player A,depot,learn,9,2 Medium,43
+2022-03-26,2,7,4,Player A,epoxy,speak,17,4 Very Hard,4
+2022-03-27,2,8,3,Player A,nymph,blend,16,4 Very Hard,204
+2022-03-28,2,9,5,Player A,found,dates,11,3 Hard,84
+2022-03-29,2,10,4,Player A,shall,strap,11,3 Hard,49
+2022-03-30,3,1,6,Player A,harry,adieu,11,3 Hard,326
+2022-03-31,3,2,4,Player A,stove,adieu,9,2 Medium,322
+2022-04-01,3,3,7,Player A,lowly,adieu,14,4 Very Hard,161
+2022-04-04,3,4,4,Player A,shawl,adieu,11,3 Hard,326
+2022-04-05,3,5,5,Player A,natal,adieu,9,2 Medium,326
+2022-04-06,3,6,4,Player A,comma,adieu,16,4 Very Hard,326
+2022-04-07,3,7,3,Player A,foray,adieu,10,2 Medium,326
+2022-04-08,3,8,6,Player A,scare,adieu,8,2 Medium,274
+2022-04-09,3,9,4,Player A,stair,adieu,5,1 Easy,93
+2022-04-10,3,10,5,Player A,black,adieu,16,4 Very Hard,326
+2022-04-11,4,1,4,Player A,squad,stern,16,4 Very Hard,77
+2022-04-13,4,2,3,Player A,chunk,stern,16,4 Very Hard,134
+2022-04-14,4,3,4,Player A,mince,stern,12,3 Hard,112
+2022-04-15,4,4,6,Player A,shame,stern,10,2 Medium,46
+2022-04-16,4,5,4,Player A,cheek,stern,16,4 Very Hard,28
+2022-04-17,4,6,6,Player A,ample,stern,12,3 Hard,216
+2022-04-18,4,7,4,Player A,flair,stern,9,2 Medium,181
+2022-04-19,4,8,5,Player A,foyer,stern,10,2 Medium,230
+2022-04-20,4,9,4,Player A,cargo,stern,10,2 Medium,181
+2022-04-21,4,10,5,Player A,oxide,stern,13,3 Hard,216
+2022-03-10,1,1,3,Player B,lapse,dates,9,2 Medium,12
+2022-03-11,1,2,6,Player B,watch,dates,13,3 Hard,18
+2022-03-12,1,3,3,Player B,today,dates,8,2 Medium,12
+2022-03-13,1,4,4,Player B,focus,dates,12,3 Hard,14
+2022-03-14,1,5,4,Player B,smelt,dates,9,2 Medium,48
+2022-03-15,1,6,2,Player B,tease,dates,7,1 Easy,25
+2022-03-16,1,7,5,Player B,water,dates,8,2 Medium,7
+2022-03-17,1,8,6,Player B,movie,dates,12,3 Hard,284
+2022-03-18,1,9,3,Player B,saute,dates,6,1 Easy,7
+2022-03-19,1,10,5,Player B,allow,dates,12,3 Hard,226
+2022-03-20,2,1,4,Player B,renew,lions,11,3 Hard,121
+2022-03-21,2,2,4,Player B,their,plate,7,1 Easy,132
+2022-03-22,2,3,4,Player B,slosh,point,10,2 Medium,266
+2022-03-23,2,4,5,Player B,purge,timer,11,3 Hard,239
+2022-03-24,2,5,4,Player B,chest,blend,10,2 Medium,78
+2022-03-25,2,6,4,Player B,depot,pilot,9,2 Medium,1
+2022-03-26,2,7,4,Player B,epoxy,trend,17,4 Very Hard,238
+2022-03-27,2,8,4,Player B,nymph,minor,16,4 Very Hard,15
+2022-03-28,2,9,5,Player B,found,route,11,3 Hard,17
+2022-03-29,2,10,4,Player B,shall,grate,11,3 Hard,71
+2022-03-30,3,1,5,Player B,harry,adieu,11,3 Hard,326
+2022-03-31,3,2,4,Player B,stove,adieu,9,2 Medium,322
+2022-04-01,3,3,4,Player B,lowly,adieu,14,4 Very Hard,161
+2022-04-04,3,4,5,Player B,shawl,adieu,11,3 Hard,326
+2022-04-05,3,5,5,Player B,natal,adieu,9,2 Medium,326
+2022-04-06,3,6,5,Player B,comma,adieu,16,4 Very Hard,326
+2022-04-07,3,7,4,Player B,foray,adieu,10,2 Medium,326
+2022-04-08,3,8,7,Player B,scare,adieu,8,2 Medium,274
+2022-04-09,3,9,3,Player B,stair,adieu,5,1 Easy,93
+2022-04-10,3,10,4,Player B,black,adieu,16,4 Very Hard,326
+2022-04-11,4,1,4,Player B,squad,stern,16,4 Very Hard,77
+2022-04-13,4,2,4,Player B,chunk,stern,16,4 Very Hard,134
+2022-04-14,4,3,6,Player B,mince,stern,12,3 Hard,112
+2022-04-15,4,4,4,Player B,shame,stern,10,2 Medium,46
+2022-04-16,4,5,3,Player B,cheek,stern,16,4 Very Hard,28
+2022-04-17,4,6,3,Player B,ample,stern,12,3 Hard,216
+2022-04-18,4,7,4,Player B,flair,stern,9,2 Medium,181
+2022-04-19,4,8,7,Player B,foyer,stern,10,2 Medium,230
+2022-04-20,4,9,4,Player B,cargo,stern,10,2 Medium,181
+2022-04-21,4,10,4,Player B,oxide,stern,13,3 Hard,216
