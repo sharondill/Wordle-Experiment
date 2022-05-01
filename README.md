@@ -1,8 +1,8 @@
 # Wordle-Experiment
 Jupyter Notebooks:
--	Wordle_Analysis.ipynb – reads in data, preps data for analysis
--	Wordle_experiment_the_story.ipynb – analyze and summarize findings.
--	World_experiment_the_story.html
+-	Wordle_Experiment_dataprep.ipynb – reads in data, preps data for analysis
+-	Wordle_Experiment_the_story.ipynb – analyze and summarize findings
+-	World_Experiment_the_story.html
 
 ## Data files:
 -	**wordle_experiment.xlsx** – tracks daily scores of two players for 40 days
