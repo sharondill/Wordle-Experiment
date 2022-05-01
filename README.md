@@ -5,15 +5,15 @@ Jupyter Notebooks:
 -	World_experiment_the_story.html
 
 ## Data files:
--	wordle_experiment.xlsx – tracks daily scores of two players for 40 days
+-	**wordle_experiment.xlsx** – tracks daily scores of two players for 40 days
 -	There were 4 rounds of 10 days each
 -	Each round had a different theme:
   -  Round 1 – players chose their own starting word, but used that same word all round
   -  Round 2 – players started each day with a different word
   -  Round 3 – players both started with ADIEU
   -  Round 4 – players both started with STERN
--	‘nyt wordle good words.txt’ – list of 2308 words retrieved from the New York Times wordle site. These words were visible in the code behind.
-	WordleExperiment2022.csv – final file for analysis
+-	**‘nyt wordle good words.txt’** – list of 2308 words retrieved from the New York Times wordle site. These words were visible in the code behind.
+	**WordleExperiment2022.csv** – final file for analysis
 ##	Data dictionary
 -	Date – day of wordle play
 -	Round – round of play (1 to 4)
